@@ -4,6 +4,6 @@ import App from './App.vue';
 import './scss/styles.scss';
 
 // Import all of Bootstrap's JS
-import * as bootstrap from 'bootstrap';
+import 'bootstrap';
 
 createApp(App).mount('#app');

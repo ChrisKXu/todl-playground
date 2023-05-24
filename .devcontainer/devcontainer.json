@@ -1,6 +1,6 @@
 {
   "image": "mcr.microsoft.com/vscode/devcontainers/javascript-node:18",
-  "forwardPorts": [3000],
+  "forwardPorts": [5173],
   "postCreateCommand": "npm install",
   "customizations": {
     "vscode": {
