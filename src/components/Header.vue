@@ -1,17 +1,9 @@
 <script setup lang="ts"></script>
 
 <template>
-  <div class="header">
-    <button>Compile</button>
+  <div class="container py-4 px-3 mx-auto">
+    <button class="btn btn-primary">Compile</button>
   </div>
 </template>
 
-<style scoped>
-header {
-  padding: 60px;
-  text-align: center;
-  background: #1abc9c;
-  color: white;
-  font-size: 30px;
-}
-</style>
+<style scoped></style>
